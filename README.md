@@ -1,5 +1,9 @@
 # Auto Deploymemnt of EKS Infrastructure on AWS with Terraform
 
+Modification from https://github.com/techtter/aws
+
+As of March 13 2022
+
 ## Project Content
 This project contains the three modules
 * **cluster-autoscaler**: Contains yaml file of cluster-autoscaler to scale out ans scale down the EKS cluster nodes. 
